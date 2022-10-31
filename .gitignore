@@ -1,0 +1,6 @@
+.idea/
+.cache/
+node_modules/
+.npmrc
+*.iml
+/cypress_project/cypress.env.json
